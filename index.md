@@ -7,7 +7,7 @@ sourceCodeUrl: https://github.com/BBong119/bbong119.github.io/blob/master/index.
 
 ## Basic Information of Dynamsoft Barcode Reader  
 - [Overview]({{ site.dbrOverview }})  
-- [Principles]({{ site.dbrPrinciples }})
+- [Principles of Dynamsoft Barcode Reader Algorithms]({{ site.dbrPrinciples }})
 - [User Guides]({{ site.userGuide }})  
 - [Evaluation Tools]({{ site.evaluationTools }})  
 - [Security Issues]({{ site.securityIssues }})  
